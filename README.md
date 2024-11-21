@@ -2,6 +2,8 @@
 
 This project demonstrates how to access AWS Bedrock using the AWS SDK in a Vite and TypeScript environment. It provides a simple interface to retrieve a specific prompt messasge.
 
+📚 **REF**: [https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/client/bedrock-agent/](https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/client/bedrock-agent/)
+
 ## Features
 
 - **Vite-powered**: Utilizes Vite for fast development and optimized production builds
